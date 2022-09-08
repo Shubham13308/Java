@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9eb1c2e3-1b75-4604-8e26-f734a48a7580" name="Changes" comment="First Commit" />
+    <list default="true" id="9eb1c2e3-1b75-4604-8e26-f734a48a7580" name="Changes" comment="First Commit">
+      <change afterPath="$PROJECT_DIR$/src/Array_Inserting_Element.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662640283071</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="First Commit">
+      <created>1662640420254</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662640420254</updated>
+    </task>
+    <task id="LOCAL-00006" summary="First Commit">
+      <created>1662640478651</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662640478651</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
