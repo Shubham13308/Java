@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9eb1c2e3-1b75-4604-8e26-f734a48a7580" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/src/Array_Inserting_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Finding_TheKth_Element.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +85,28 @@
       <option name="project" value="LOCAL" />
       <updated>1662640478651</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="First Commit">
+      <created>1662641386199</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662641386199</updated>
+    </task>
+    <task id="LOCAL-00008" summary="First Commit">
+      <created>1662641455094</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662641455094</updated>
+    </task>
+    <task id="LOCAL-00009" summary="First Commit">
+      <created>1662641540568</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1662641540568</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
