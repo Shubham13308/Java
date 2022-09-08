@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9eb1c2e3-1b75-4604-8e26-f734a48a7580" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/src/Finding_TheKth_Element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Finding_TheKth_Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Finding_TheKth_Element.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,8 +106,26 @@
       <option name="project" value="LOCAL" />
       <updated>1662641540568</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="First Commit">
+      <created>1662641854629</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662641854629</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
